@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "JN8v2veMLND6//c14sdqtpcWQqBMhQ5IpXrEDfsBjRthu9yznRLagp/4Zi11jOoEiezVKhk2bq63wdDSzVa97w==",
+  "dgSpecHash": "1Hs5O8go4RJBWMw/keuP1YQjJwFUYfftXDBaMlGov6l+lOXw/rR9YPnCLT9cH0XEcEL+9webSYF66QbExfw4ww==",
   "success": true,
-  "projectFilePath": "C:\\repo\\DODRepo\\APITestProject\\APITestProject\\APITestProject.csproj",
+  "projectFilePath": "C:\\Users\\ryant\\repo\\DODRepo\\APITestProject\\APITestProject\\APITestProject.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\fuzzy\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+    "C:\\Users\\ryant\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\ryant\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ryant\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ryant\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ryant\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }
